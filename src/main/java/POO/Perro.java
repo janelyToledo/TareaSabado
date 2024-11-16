@@ -6,7 +6,7 @@ package POO;
 
 /**
  *
- * @author allan
+ * @author Janely
  */
 public class Perro extends Animal{
 

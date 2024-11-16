@@ -6,7 +6,7 @@ package POO;
 
 /**
  *
- * @author allan
+ * @author Janely
  */
 public class Animal {
    private String Pelo;

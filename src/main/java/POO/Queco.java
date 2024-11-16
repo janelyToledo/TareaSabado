@@ -5,17 +5,16 @@
 package POO;
 
 /**
- *
- * @author allan
+ 
+ * @author Janely
  */
-public class Queco extends Animal{
+public class Queco extends Animal {
 
     public Queco(String Pelo, String Boca, String Cola, String Ojo, Integer Patas) {
         super(Pelo, Boca, Cola, Ojo, Patas);
     }
-  @Override   
-  public void Sonido(){
-      System.out.println("El Queco hace tac tac");
-  }
-    
+    @Override
+     public void Sonido(){
+        System.out.println("El queco hace tac tac");
+    }
 }
